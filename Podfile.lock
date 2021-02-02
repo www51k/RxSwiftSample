@@ -1,0 +1,30 @@
+PODS:
+  - RxCocoa (6.0.0):
+    - RxRelay (= 6.0.0)
+    - RxSwift (= 6.0.0)
+  - RxRelay (6.0.0):
+    - RxSwift (= 6.0.0)
+  - RxSwift (6.0.0)
+  - SwiftFormat/CLI (0.47.10)
+
+DEPENDENCIES:
+  - RxCocoa (= 6.0.0)
+  - RxSwift (= 6.0.0)
+  - SwiftFormat/CLI
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftFormat
+
+SPEC CHECKSUMS:
+  RxCocoa: 3f79328fafa3645b34600f37c31e64c73ae3a80e
+  RxRelay: 8d593be109c06ea850df027351beba614b012ffb
+  RxSwift: c14e798c59b9f6e9a2df8fd235602e85cc044295
+  SwiftFormat: b847ac37506435242af1a2e3b34b1fb31a4d3e6c
+
+PODFILE CHECKSUM: 064e03e6d966514a5210cc4c10afbd2bfc7d105d
+
+COCOAPODS: 1.10.1
